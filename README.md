@@ -1,2 +1,2 @@
 # Interactivity_With_JavaScript
-This repository includes lectures, notes, and projects of "Interactivity with JavaScript", an online course offered by University of Michigan.
+This repository includes lectures, and notes of "Interactivity with JavaScript", an online course I took that is offered by University of Michigan.
